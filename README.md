@@ -3,9 +3,11 @@
 本游戏为python开发，拥有多种拦截与导弹发射模式
 
 ## 使用说明
-直接运行`main.py`文件，环境为3.12.7
+直接运行 `main.py` 
 
-使用包管理器 pip 安装或者 conda 安装  `numpy` 与 `pygame` 库
+环境为3.12.7
+
+使用包管理器 pip 安装或者 conda 安装  `numpy`  `pygame` 库
 ```bash
 pip install numpy
 pip install pygame
